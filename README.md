@@ -3,4 +3,4 @@ A project created for SIT210 - Embedded Systems Development for Deakin Universit
 
 I came up with the idea of a "Smart" dog collar after bringing home another German Shepgherd, to track her location in the event that she escapes. Turns out there are plenty of Smart dog collars, and building my own certainly isn't any easier.
 
-The program was originally programmed using Python, however as the program needs to perform as quickly as possible, I decided to move it to C++.
+The program was originally programmed using Python, however as the program needs to perform as quickly as possible, I decided to move it to C++. It reports how many satellites it's currently talking to, the "fix" mode, latitude, longitude, altitude and speed. On my current setup, it's accurate to within approximately 4 metres.
