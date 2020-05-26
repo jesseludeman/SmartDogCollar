@@ -11,6 +11,7 @@ using namespace std;
 
 int main()
 {
+	
 	// Initialize the GPS
 	int ret;
 	struct gps_data_t gps_data;
