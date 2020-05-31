@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 #include <vector>
-#include <gps.h>		// Using the GPS library
-#include <wiringPi.h>	// Using the Wiring Pi library
+#include <gps.h>        // Using the GPS library
+#include <wiringPi.h>   // Using the Wiring Pi library
 #include <stdio.h>
 #include <stdlib.h>
 #include <errno.h>
