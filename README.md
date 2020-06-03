@@ -1,5 +1,5 @@
 # "Smart" Dog Collar
-A project created for SIT210 - Embedded Systems Development for Deakin University. A C++ program that directly interfaces with a connected GPS that uses the gpsd program on a Raspberry Pi Linux system.
+A project created for SIT210 - Embedded Systems Development for Deakin University. A C++ program that directly interfaces with a connected GPS that uses the gpsd program on a Raspberry Pi Linux system. It's designed to simulate a GPS device attached to a dog collar so that it can track the dog's location in case it gets lost.
 
 I came up with the idea of a "Smart" dog collar after bringing home another German Shepherd, to track her location in the event that she escapes. Turns out there are plenty of Smart dog collars, and building my own certainly isn't any easier.
 
