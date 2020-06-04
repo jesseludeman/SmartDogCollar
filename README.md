@@ -5,4 +5,4 @@ I came up with the idea of a "Smart" dog collar after bringing home another Germ
 
 The program was originally programmed using Python, however as the program needs to perform as quickly as possible, I decided to move it to C++. It reports how many satellites it's currently talking to, the "fix" mode, latitude, longitude, altitude and speed. Based on my current testing, it's accurate to within approximately 4 metres.
 
-To compile this code on a Raspberry Pi, try: g++ main.cpp -o filename -lgps -lwiringPi
+The program requires the libgps and wiringpi libraries to compile successfully. To compile this code on a Raspberry Pi, issue the following command in a terminal window: g++ main.cpp -o filename -lgps -lwiringPi
